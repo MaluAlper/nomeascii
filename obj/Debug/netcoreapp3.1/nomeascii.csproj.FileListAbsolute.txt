@@ -1,0 +1,13 @@
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\bin\Debug\netcoreapp3.1\nomeascii.exe
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\bin\Debug\netcoreapp3.1\nomeascii.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\bin\Debug\netcoreapp3.1\nomeascii.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\bin\Debug\netcoreapp3.1\nomeascii.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\bin\Debug\netcoreapp3.1\nomeascii.dll
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\bin\Debug\netcoreapp3.1\nomeascii.pdb
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\obj\Debug\netcoreapp3.1\nomeascii.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\obj\Debug\netcoreapp3.1\nomeascii.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\obj\Debug\netcoreapp3.1\nomeascii.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\obj\Debug\netcoreapp3.1\nomeascii.csproj.CopyComplete
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\obj\Debug\netcoreapp3.1\nomeascii.dll
+C:\Users\Maria Luiza\Documents\Luiza\nomeascii\nomeascii\obj\Debug\netcoreapp3.1\nomeascii.pdb
